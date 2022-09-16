@@ -25,7 +25,8 @@ Generally, all the structured codes can be stored in a single repository. But, o
 $ git init
 ```
 
-[https://lh4.googleusercontent.com/Re_TkaVIJAmUp0SS6p3LNGLgNFq54opYPwi5iOyhp9cpkw5th3dK3RaCHucg64O64UaT8Rg5sAICn9FYoBl_M18-lOc7q5KdUF1vwenOnMeex7sUh3dnUw211DcX04ZKFaW7Al0UJciHsu7RmKXOACjuTDSKhfJgQ30PqyG6gtc93l7TsXI5oAcbTA](https://lh4.googleusercontent.com/Re_TkaVIJAmUp0SS6p3LNGLgNFq54opYPwi5iOyhp9cpkw5th3dK3RaCHucg64O64UaT8Rg5sAICn9FYoBl_M18-lOc7q5KdUF1vwenOnMeex7sUh3dnUw211DcX04ZKFaW7Al0UJciHsu7RmKXOACjuTDSKhfJgQ30PqyG6gtc93l7TsXI5oAcbTA)
+![image](https://user-images.githubusercontent.com/46520621/190827746-caeca7ff-aa43-4331-a068-ac06f693408c.png)
+
 
 *Figure 1: Creating Git Repository*
 
